@@ -1,0 +1,1 @@
+Hola {{ $nombre }}, tu codigo es {{ $id }}.
